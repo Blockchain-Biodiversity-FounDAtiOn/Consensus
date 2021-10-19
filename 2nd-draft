@@ -1,63 +1,51 @@
-A global consensus engine has never been created for distributed social, political, legal and ethical decision-making. If such an engine was successfully created and widely adopted, it would represent the biggest social evolution and challenge to our political and legal architecture since historic records began - a societal singularity. In addition to global decision making, it could be used at the local, regional and national level for more local matters.
-If we are to realise the full potential of the human race and our capacity for collective intelligence and wisdom it is necessary that we begin to interact in such ways - ways that are similar to how advanced AI minds might interact if they existed. 
-A safe consensus engine requires that information accuracy is validated, scored and shared across the network of participants so that the decisions they make are based on better, diverse and accurate data. It obviously represents a major challenge to all existing political infrastructures and even more so any authoritarian regimes. This means that the consensus engine and its participants will be under continuous cyber attack.
-It is not possible to advise exactly how the appropriate decentralised and distributed legal and ethics consensus engine must be architected and maintained.  The proposed Decentralised Autonomous Organisation (DAO) will start to work on this key practical aspect of the proposed ethical framework. 
-Scoping Stage 
-The consensus engine requires significant scoping by a wide group of stakeholders especially cybercrime and information security experts. It is envisaged that if a DAO is created to develop the ethical framework, one of its first tasks will be to create an information security working group that will consider, among other things:
-How will we try to protect the privacy and data of end-users in respect of their interaction with the DAO and each other?
-How do we create a decentralised distributed community which ensures that each participant’s interaction with the consensus engine and the information channels operated by the DAO are secure?
-How do we mitigate the risk of end-user device or secure credential hacking?
-How do we verify a real unique person made a specific voting decision using a secure device and without potentially risking disclosure of their identity?
-How do we manage the risks inherent with guardian, management and administration layers within a DAO? 
-How do we manage the risk of surveillance, imprisonment and persecution by participants within authoritarian regimes or by unlawful surveillance democracies? 
-What decentralised and distributed file systems can be used to avoid single point of failure attacks on data?
-What single point of failure dependencies need to be avoided to meet the security and data protection objectives?
-What residual risks are unavoidable given the current ‘state of play’ in cryptography?
-Which technologies require DAO resources to be allocated to develop them to a suitably high level of security and usability?
-How do we address the many concerns about the use of the blockchain as a tool for democracy
+A global ‘Consensus Engine’ has never been created for distributed social, political, legal and ethical decision-making. If such an engine was successfully created and widely adopted, it would represent the biggest social evolution and challenge to our political and legal architecture since historic records began – a societal singularity. In addition to global decision-making, it could be used at the local, regional and national levels for various matters.
+If we are to realise the full potential of the human race and our capacity for collective intelligence and wisdom it is necessary that we begin to interact in such ways – ways that are similar to how advanced AI minds might interact if they existed. 
+Successful decentralised democracy and decision making requires as a condition decentralised information channels. A safe consensus engine requires that information accuracy is validated, scored and shared across the network of participants so that the decisions they make are based on better, more diverse and more accurate data. It obviously represents a major challenge to all existing political infrastructures and even more so to any authoritarian regime. This puts any Consensus Engine and its participants at risk of continuous cyber-attack. 
+It is not possible to advise exactly how the appropriate decentralised and distributed legal and ethics consensus engine must be designed and maintained. A proposed ‘Decentralised Autonomous Organisation’ (DAO)  would start to work on this key practical aspect of the proposed ethical framework. 
+The consensus engine requires significant scoping by a wide group of stakeholders, especially cybercrime and information security experts. It is envisaged that upon the creation of a DAO to develop the ethical framework, one of its first tasks will be to create an information security working group that will consider the following questions, among others.
+●	How will we protect the privacy and data of end-users in respect of their interaction with the DAO and each other?
+●	How do we create a decentralised distributed community which ensures that each participant’s interaction with the consensus engine and the information channels operated by the DAO are secure?
+●	How do we mitigate the risk of the hacking of end-user devices or secure credentials?
+●	How do we verify that a real unique person made a specific voting decision using a secure device and without potentially risking disclosure of their identity? 
+●	How do we manage the risks inherent with guardian, management, and administration layers within a DAO?  
+●	How do we manage the risk of surveillance, imprisonment, and persecution by participants within authoritarian regimes or by unlawful surveillance democracies? 
+●	What decentralised and distributed file systems can be used to avoid single-point-of-failure attacks on data?
+●	What single-point-of-failure dependencies need to be avoided to meet the security and data protection objectives?
+●	What residual risks are unavoidable given the current ‘state of play’ in cryptography?
+●	Which technologies require DAO resources to be allocated to develop them to a suitably high level of security and usability?
+●	How do we address the many concerns about the use of the blockchain as a tool for democracy? 
+Some very prominent analysts and experts in the blockchain field are highly sceptical of the ability of a blockchain voting system to be suitable for democratic purposes, among others raising issues of voting fraud, particularly related to the security of the devices used to access the voting system, and a lack of auditability.  The Consensus Engine would require strong proof of identity and authenticity for a vote, including authentication of the device used to cast a vote. For now, it appears that local, regional and national pencil-and-paper ballots linked to real persons provably known to the authorities remain more secure than blockchain equivalents, but that could change very quickly.
+It is envisaged that when any major decision needs to be made that could impact a significant number of humans, other life-forms or the environment, consensus would be sought. When speaking of making ethical decisions, this includes continuing to do anything we are currently doing, such as raising animals for food, destroying forests and habitats, our current distribution of wealth, existing public measures to protect individual liberty, crime prevention and our infrastructure commitments and decisions. In addition, for major issues, deciding to do nothing is often also a decision that requires consensus.
+In addition to the general consensus mechanisms, the ethical framework envisages more technical consensus requirements such as those dealing with the interaction of the AFIW Index and other index scores. The axioms contain basic propositions about the need for a Consensus Engine that will lead to the secure transfer of more accurate and unbiased information and recommendations for voting on that information. 
+From a practical constitutional perspective, the more serious the matter, the greater degree of consensus is required. For example, it might be:
+●	99% to change, add or remove an ethical framework law 
+●	95% change, add or remove an axiom
+●	>75% and up to 95% when making other constitutionally relevant decisions
+●	>50% and <75% for most applied ethical decisions requiring consensus
+The UK’s ‘Brexit’ referendum debacle must be a salutary lesson for all referendum operators of the need for different levels of confidence depending on the seriousness and impact of getting it potentially wrong in respect of the matter at hand.  
+12.4.1.	A Decentralised Autonomous Organisation (DAO)
+The DAO could have the following interacting layers of governance and decision making:
+●	Guardian layer (standing guardians/trustee roles) of select NGOs, scientists, cryptographers and other early initiators of the ethical framework.
+●	Executive layer with day-to-day responsibilities.
+●	Working group layer of temporary sub committees with project-specific tasks.
+●	Consensus proposal system, whereby decisions can be put forward by:
+○	guardians
+○	executives
+○	any working group, by majority vote
+○	or, for example, by request of 5% or more of all active participants of the Consensus Engine
+●	Consensus layer, in which all willing participants without qualification or restriction can vote and have equal authority
+Such a system allows for no direct governmental participation, but some participants will of course have governmental affiliations.
+A global Consensus Engine can only succeed if we solve some of the current defects arising from centralised creation and dissemination of information, statistics, and metrics to the public.  The aim over time is to reverse the current asymmetry in technological, information, legal and political control that exists as between large corporations, governments and government agencies and the individual (collectively). This would inevitably lead to hotly disputed perspectives on the facts that are relevant to making any decision.
 
-Some very prominent analysts and experts in the blockchain field are highly skeptical of the ability of a blockchain voting system to be suitable for democratc purposes - including issues of voting fraud particularly related to the security of the devices used to access the voting system and a lack of auditability. The consensus engine would require strong proof of identity and authenticity for a vote cast (linked to identity) including authentication of the device used to cast a vote. 
-For now, it appears that local, regional and national pencil and paper ballots linked to real persons provably known to the authorities remain more secure than blockchain equivalents - but that could change very quickly.
+‘The first casualty when war comes is the truth’ 
 
-Material Decisions requiring Consensus
-It is envisaged that when any major decision needs to be made that could impact a significant number of humans, other life-forms or the environment then the consensus would be sought. When speaking of ethical decisions this includes continuing to do anything we are currently doing: such as our treatment of animals for food, reduction of forests and habitats, the distribution of wealth, public measures to protect individual liberty, crime prevention and our infrastructure commitments and decisions. In addition, for major issues deciding to do nothing is often also a decision requiring consensus.
-In addition to the general consensus mechanisms, the ethical framework envisages more technical consensus requirements such as for dealing with the interaction of the Aliveness, Feeling, Intelligence & Wisdom Index and other index scores. The axioms contain basic propositions about the need for a consensus engine that will lead to the secure transfer of more accurate and unbiased information and recommendations for voting on that information. 
-
-Suitable Consensus thresholds
-From a practical constitutional perspective, the more serious the matter the greater degree of consensus is required for example, it might be:
-99% to change, add or remove an ethical framework law
-95% change, add or remove an axiom
-> 75% and up to 95% when making other constitutional relevant decisions
->50% and less than <75% for most applied ethical decisions requiring consensus
-The UK’s ‘Brexit’ referendum debacle must be a salutary lesson for all referendum operators of the need for different levels of confidence depending on the seriousness and impact of getting it potentially wrong in respect of the matter at hand. 
-
-Proposed organisational structure
-Decentralised Foundation (DAO)
-Guardian layer (standing Guardians/Trustee roles) = select NGOs, scientists, cryptographers and other early initiators of the ethical framework
-Executive Layer - having day to day responsibilities
-Working Group project specific layer (temporary sub committees with specific tasks 
-Consensus proposal requirements - proposals for decisions can be put forward by:
-Guardians
-Executive
-Any working group by majority vote
-Or, for example, by request of 5%  or more of all active participants of the Consensus Engine
-Consensus layer:
-all willing participants without qualification or restriction can vote and have equal authority
-No direct governmental participation but some participants will of course have governmental affiliations.
-
-Information Wars
-A global consensus engine can only succeed if we solve some of the current defects arising from centralised creation and dissemination of information, statistics and metrics to the public. 
-The aim over time is to reverse the current asymmetry in technological, information, legal and political control that exists as between large corporations, governments and government agencies and the individual (collectively). This would inevitably lead to hotly disputed perspectives on the facts that are relevant to making any decision.
-‘The first casualty when war comes is the truth’ - and this would quickly become an information war between decentralised and distributed information channels and the traditional means. The war already exists, but the disparity in power between the centralised controllers of information and information channels and the person on the street means that the war has not really been joined yet (other than in a few notable skirmishes).
-
-Cultural Formality & Community
-Nearly all powerful successful movements in human culture make use of a degree of formality and social cohesiveness in their practices. This formality takes place within a communal setting (including prayer, meditation or pledge) and helps bind participants together in their common cause. Some work is required to consider how best to make use of this powerful and wide-spread cultural tool to ensure that prior to any consensus participants are in the best frame of mind to make better decisions.
-
-Politics
-The issues Earth currently faces with its political and legislative structures and bodies are now at a crisis point. There is an extraordinary democratic deficit that has been building up for many years in some western countries (e.g. USA, UK) and areas (EU) and other countries may have very limited forms of ‘free’ political participation. 
-It is most unlikely that those with political control (direct or indirect) will wish to give it up, whether in so called democracies or in dictatorships. Yet we have a need for globally distributed and decentralised consensus on many matters - not least protection of biodiversity and the biosphere.
-It may be that the development of a global consensus engine could lead to reform and improvements in traditional political and legislative infrastructure (the reform by pressure approach) - whereby the DAO can take information on key issues to politicians and legislators and show how widespread support for certain measures is. However, ultimately this must be a short term effect that only commences to have impact once the DAO and voting community reach a sufficient size. Much more work is required to consider how to encourage adoption and achieve some early ‘wins’ on key issues that will publicise the value of a global Consensus Engine.
-A global consensus engine would ultimately ring the death knell for much of our existing legal, ethical and political architecture. 
-Once we have a vibrant participatory community that includes all humans within its decision making, it inevitably brings into question and sharp focus just whose interests do many of the existing historic legal, legislative and political architectures protect if it is not the DAO participants and other life-forms?
-The answer would be, most obviously, not the majority of people or other life-forms on Earth. 
-We face a long road from an experimental ethical framework and community to a new way for humans to share in the burden and benefits of collective decision making. We must start somewhere and start soon. If enough people get involved, first those in power will be forced to listen and eventually power will move away from representatives to the community itself.
+Use of a DAO for ethical consensus would quickly lead to an information war between decentralised and distributed information channels and the traditional means (i.e., between the collective and those in control of power). 
+The information war already exists, but the disparity in power between the centralised controllers of information and information channels and the person on the street means that the war has not really been joined yet (other than in a few notable skirmishes). 
+Nearly all successful movements in human culture make use of a degree of formality and social cohesiveness in their practices. This formality exists within a communal setting (including prayer, meditation, or pledge) and helps bind participants together in their common cause. Some work is required to consider how best to make use of this powerful and widespread cultural tool to ensure that participants are in the best frame of mind prior to any consensus to make better decisions. 
+The issues Earth currently faces in its political and legislative structures and bodies are now at a crisis point. An extraordinary democratic deficit has been building up for many years in some Western countries (e.g., the USA, the UK) and areas (the EU), while other countries may have very limited forms of ‘free’ political participation. 
+It is most unlikely that those with political control (direct or indirect) will wish to give it up, whether in so-called democracies or in dictatorships. Yet we have a need for globally distributed and decentralised consensus on many matters – not least the protection of biodiversity and the biosphere.
+It may be that the development of a global Consensus Engine could lead to reform of and improvements to traditional political and legislative infrastructure (the reform-by-pressure approach), whereby the DAO can take information on key issues to politicians and legislators and demonstrate the extent of support for certain measures. However, ultimately this is a short-term effect, which can only begin to have impact once the DAO and voting community reach a sufficient size. Much more work is required to consider how to encourage adoption and achieve some early ‘wins’ on key issues that will publicise the value of a global Consensus Engine.
+A global Consensus Engine would ultimately ring the death knell for much of our existing legal, ethical and political architecture. 
+Once we have a vibrant participatory community that includes all humans within its decision-making, it inevitably brings into question just whose interests many of the existing and historic legal, legislative and political architectures protect, if not participants in the DAO and other life-forms.
+The answer is, most obviously, not the majority of people or other life-forms on Earth. 
+We face a long road from an experimental ethical framework and community to a new way for humans to share in the burden and benefits of collective decision-making. We must start somewhere, and we must start soon. If enough people get involved, those in power will be forced to listen and eventually power will move away from representatives to the community itself.
